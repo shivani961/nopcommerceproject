@@ -1,0 +1,28 @@
+2025-01-18 18:31:33:INFO:********* Test_01_Admin_Login ********
+2025-01-18 18:31:33:INFO:********* verification of login page title ********
+2025-01-18 18:31:36:INFO:********* Title matched *********
+2025-01-18 18:31:38:INFO:*********Test_01_Admin_Login********
+2025-01-18 18:31:38:INFO:********* Testing valid admin login ********
+2025-01-18 18:31:50:INFO:********* Test invalid login ********
+2025-01-18 18:31:53:INFO:********* Test case passed  ********
+2025-01-18 18:52:56:INFO:********* Test_01_Admin_Login ********
+2025-01-18 18:52:56:INFO:********* verification of login page title ********
+2025-01-18 18:53:00:INFO:********* Title matched *********
+2025-01-18 18:53:01:INFO:*********Test_01_Admin_Login********
+2025-01-18 18:53:01:INFO:********* Testing valid admin login ********
+2025-01-18 18:53:18:INFO:********* Test invalid login ********
+2025-01-18 18:53:24:INFO:********* Test case passed  ********
+2025-01-18 18:54:35:INFO:********* Test_01_Admin_Login ********
+2025-01-18 18:54:35:INFO:********* verification of login page title ********
+2025-01-18 18:54:41:INFO:********* Title matched *********
+2025-01-18 18:54:44:INFO:*********Test_01_Admin_Login********
+2025-01-18 18:54:44:INFO:********* Testing valid admin login ********
+2025-01-18 18:54:59:INFO:********* Test invalid login ********
+2025-01-18 18:55:04:INFO:********* Test case passed  ********
+2025-01-18 19:10:21:INFO:********* Test_01_Admin_Login ********
+2025-01-18 19:10:21:INFO:********* verification of login page title ********
+2025-01-18 19:10:24:INFO:********* Title matched *********
+2025-01-18 19:10:26:INFO:*********Test_01_Admin_Login********
+2025-01-18 19:10:26:INFO:********* Testing valid admin login ********
+2025-01-18 19:10:39:INFO:********* Test invalid login ********
+2025-01-18 19:10:45:INFO:********* Test case passed  ********
